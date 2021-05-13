@@ -1,0 +1,10 @@
+Распиновка:
+	PULSE SENSOR:
+		GND (белый) - GND
+		VCC (красный) - 5V
+		OUT (черный) - PA0
+	OLED DISPLAY:
+		GND - GND
+		VCC - 3V
+		SCL - PB7
+		SDA - PB6
